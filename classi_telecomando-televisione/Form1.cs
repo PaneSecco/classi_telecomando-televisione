@@ -153,7 +153,7 @@ namespace classi_telecomando_televisione
             }
             else
             {
-                MessageBox.Show("uno o più campi non sono stati completati, si prega di riempirli prima di procedere");
+                MessageBox.Show("Uno o più campi non sono stati completati, si prega di riempirli prima di procedere");
             }
         }
     }
